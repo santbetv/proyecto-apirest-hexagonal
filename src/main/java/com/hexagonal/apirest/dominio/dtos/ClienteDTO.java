@@ -10,6 +10,4 @@ public class ClienteDTO {
 	private String identificacion;
 	private String telefono;
 	private String email;
-
-
 }
